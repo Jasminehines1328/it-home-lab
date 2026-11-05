@@ -12,7 +12,7 @@ All users and data are fake. I built this lab to practice real help desk and IT 
 - Built 4 department groups with their own email addresses: Sales, Finance, Marketing, and IT
 - Turned on multifactor authentication (MFA) for every user
 
-![Users with Business Premium licenses](screenshots/01-users.png)
+![Users with Business Premium licenses](01-users.png)
 ![Department groups and email addresses](screenshots/groups-02.png)
 ![MFA status for each user](screenshots/mfa-03.png)
 
