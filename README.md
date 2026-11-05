@@ -13,8 +13,8 @@ All users and data are fake. I built this lab to practice real help desk and IT 
 - Turned on multifactor authentication (MFA) for every user
 
 ![Users with Business Premium licenses](01-users.png)
-![Department groups and email addresses](screenshots/groups-02.png)
-![MFA status for each user](screenshots/mfa-03.png)
+![Department groups and email addresses](groups-02.png)
+![MFA status for each user](mfa-03.png)
 
 ### Jira Service Management
 - Built a help desk called Pinecrest IT Help Desk
@@ -22,11 +22,11 @@ All users and data are fake. I built this lab to practice real help desk and IT 
 - Added employees as customers so they can submit requests through the portal
 - Worked and resolved the first ticket, a password reset for a locked-out user
 
-![Request types](screenshots/jira-request-types.png)
-![Customers list](screenshots/jira-customers.png)
-![Ticket from the agent view](screenshots/jira-queue.png)
-![Internal notes on the ticket](screenshots/jira-comments.png)
-![Ticket from the employee's view](screenshots/jira-portal.png)
+![Request types](jira-request-types.png)
+![Customers list](jira-customers.png)
+![Ticket from the agent view](jira-queue.png)
+![Internal notes on the ticket](jira-comments.png)
+![Ticket from the employee's view](jira-portal.png)
 
 ## Ticket highlight: PIHD-1, locked out after vacation
 - **Request type:** Password reset
